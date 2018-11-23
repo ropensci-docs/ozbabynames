@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "b645dfeb69b4e65635da8b79b0bc4f4106a37490",
+    "author": "Jessie Roberts <jessiel.r@gmail.com>",
+    "time": "2018-11-23 05:13:11",
+    "files": 1,
+    "merge": false,
+    "message": "reduce diversity plot\n\n"
+  },
+  "remote": "https://github.com/ropenscilabs/ozbabynames",
+  "pkg": "ozbabynames"
+}
